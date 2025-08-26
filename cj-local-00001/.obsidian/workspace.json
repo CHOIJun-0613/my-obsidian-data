@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "390ab7f210e17cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a3b544c8941f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac4822aaa4ed37f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "무제.base",
+                "viewName": "표"
+              },
+              "icon": "lucide-table",
+              "title": "무제"
+            }
+          },
+          {
+            "id": "499c8f93fae491a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000.개인용무/AX Dev/python 가상환경 관리.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "python 가상환경 관리"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "15a084e96c8d5fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c83b00c0e23e0c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000.개인용무/AX Dev/python 가상환경 관리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python 가상환경 관리"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10a19b7b40da169b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b1e81fe29146795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f1b85d7f529333",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2c95d9dccbe40783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c576738ce1c3dfd2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc4033b3d6f1d7b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d16680ab5e7a4d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6b9cae7a3286b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "무제.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "무제 의 백링크"
+            }
+          },
+          {
+            "id": "589ba2e440e47fbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8e8194388fb7e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f361cebd5683ca79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "c83b00c0e23e0c89",
+  "lastOpenFiles": [
+    "무제.base",
+    "000.개인용무/AX Dev/python 가상환경 관리.md",
+    "000.개인용무/AX Dev",
+    "000.개인용무/AI",
+    "무제",
+    "Welcome.md",
+    "무제.canvas",
+    "2025-08-22.md",
+    "900.기타/obsidian test.md",
+    "2025-08-22^b44f3a.md",
+    "무제 1",
+    "900.기타",
+    "100.회사업무",
+    "000.개인용무"
+  ]
+}
