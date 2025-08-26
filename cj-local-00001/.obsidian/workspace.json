@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7a3b544c8941f97",
+        "id": "daaeb813d4915bbb",
         "type": "tabs",
         "children": [
           {
-            "id": "1ac4822aaa4ed37f",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "무제.base",
-                "viewName": "표"
-              },
-              "icon": "lucide-table",
-              "title": "무제"
-            }
-          },
-          {
-            "id": "499c8f93fae491a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000.개인용무/AX Dev/python 가상환경 관리.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "python 가상환경 관리"
-            }
-          },
-          {
-            "id": "db7aa25a9db7101f",
+            "id": "8058baeb0d3d9b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,27 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "git 사용법"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "15a084e96c8d5fca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c83b00c0e23e0c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000.개인용무/AX Dev/python 가상환경 관리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "python 가상환경 관리"
             }
           }
         ]
@@ -142,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제.base",
+                "file": "000.개인용무/AX Dev/git 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 의 백링크"
+              "title": "git 사용법 의 백링크"
             }
           },
           {
@@ -198,13 +150,33 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "576d2b81f047ea11",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "832b4bff87868d4a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,21 +186,25 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db7aa25a9db7101f",
+  "active": "8058baeb0d3d9b1a",
   "lastOpenFiles": [
-    "000.개인용무/AX Dev/python 가상환경 관리.md",
+    "2025-08-22.md",
     "000.개인용무/AX Dev/git 사용법.md",
+    "000.개인용무/AX Dev/python 가상환경 관리.md",
+    "900.기타/obsidian test.md",
+    "Welcome.md",
+    "800.템플릿",
     "무제.base",
     "000.개인용무/AX Dev",
     "000.개인용무/AI",
-    "무제",
-    "Welcome.md",
     "무제.canvas",
-    "2025-08-22.md",
-    "900.기타/obsidian test.md",
     "2025-08-22^b44f3a.md",
     "무제 1",
     "900.기타",
