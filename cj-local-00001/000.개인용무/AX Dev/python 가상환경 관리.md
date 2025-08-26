@@ -47,12 +47,6 @@ deactive
 ```bash
 sudo rm -rf 가상환경 이름
 ```
-
-            
-
-
-
-
                     
 
 출처: [https://canaryrelease.tistory.com/62](https://canaryrelease.tistory.com/62) [release: canary:티스토리]

@@ -33,9 +33,23 @@
               "icon": "lucide-file",
               "title": "python 가상환경 관리"
             }
+          },
+          {
+            "id": "db7aa25a9db7101f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000.개인용무/AX Dev/git 사용법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git 사용법"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "15a084e96c8d5fca",
@@ -203,10 +217,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "c83b00c0e23e0c89",
+  "active": "db7aa25a9db7101f",
   "lastOpenFiles": [
-    "무제.base",
     "000.개인용무/AX Dev/python 가상환경 관리.md",
+    "000.개인용무/AX Dev/git 사용법.md",
+    "무제.base",
     "000.개인용무/AX Dev",
     "000.개인용무/AI",
     "무제",
